@@ -1,2 +1,2 @@
-# AutomationProject
-Project to make automagical tests and cucumber stuff
+SADEE - Sistema de Acompanhamento de Desenvolvedores Externos Estendido
+
